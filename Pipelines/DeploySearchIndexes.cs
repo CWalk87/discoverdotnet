@@ -5,7 +5,7 @@ namespace DiscoverDotnet.Pipelines
 {
     public class DeploySearchIndexes : Pipeline
     {
-        private const string ApplicationId = "7TKEQH0O12";
+        private const string ApplicationId = "XW1VEV9739";
 
         public DeploySearchIndexes()
         {
